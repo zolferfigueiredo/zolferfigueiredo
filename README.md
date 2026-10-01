@@ -22,11 +22,15 @@ My first program was an mIRC script that mapped hotkeys to funny messages. 15+ y
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://theej.zolfer.com"><img src="assets/project-theej.svg" width="40" height="40" alt="TheeJ"></a></td>
-<td><b><a href="https://theej.zolfer.com">TheeJ</a></b> · macOS<br>Real knobs for your Mac: a <a href=" https://github.com/omriharel/deej">deej</a> Arduino mixer for volume, display brightness and keyboard backlight.</td>
+<td><b><a href="https://theej.zolfer.com">TheeJ</a></b> · macOS<br>Real knobs for your Mac: a <a href="https://github.com/omriharel/deej">deej</a> Arduino mixer for volume, display brightness and keyboard backlight.</td>
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://url.zolfer.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zolferfigueiredo/zolferfigueiredo/main/assets/project-url.svg"><img src="https://raw.githubusercontent.com/zolferfigueiredo/zolferfigueiredo/main/assets/project-url-ink.svg" width="40" height="40" alt="url.zolfer.com"></picture></a></td>
 <td><b><a href="https://url.zolfer.com">url.zolfer.com</a></b> · Web<br>Paste a long link, get a short one and a QR code.</td>
+</tr>
+<tr>
+<td width="56" valign="top"><a href="https://zolfer.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zolferfigueiredo/zolferfigueiredo/main/assets/project-zolfer.svg"><img src="https://raw.githubusercontent.com/zolferfigueiredo/zolferfigueiredo/main/assets/project-zolfer-ink.svg" width="40" height="30" alt="zolfer.com"></picture></a></td>
+<td><b><a href="https://zolfer.com">zolfer.com</a></b> · Web<br>My pixel-art portfolio, designed by <a href="https://charleneperuchi.com/">Charlene Peruchi</a> and built with plain PHP: no framework, no database.</td>
 </tr>
 </table>
 
