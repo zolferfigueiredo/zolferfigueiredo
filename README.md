@@ -2,14 +2,15 @@
 
 Software developer in Berlin. I build small, polished apps: **Despensado** for iOS and Android, and **ClaudioStat**, **BeeHan Brightness** and **TheeJ** for macOS.
 
-My first program was an mIRC script that mapped hotkeys to funny messages. 15+ years later I still write code for fun, mostly web and mobile, lately with a lot of AI. Six of those years went into React Native apps.
+My first program was an mIRC script that mapped hotkeys to funny messages. 15+ years later I still write code for fun, mostly web and mobile, lately with a lot of AI. Seven of those years went into React Native apps.
 
 ### What I've shipped
 
 <table>
 <tr>
 <td width="56" valign="top"><a href="https://appdespensado.zolfer.com"><img src="assets/project-despensado.svg" width="40" height="40" alt="Despensado"></a></td>
-<td><b><a href="https://appdespensado.zolfer.com">Despensado</a></b> · iOS · <a href="https://apps.apple.com/us/app/despensado/id6806343938">App Store</a><br>Scan groceries by barcode, get warned before anything expires, share one pantry with your household. In nine languages.</td>
+<td><b><a href="https://appdespensado.zolfer.com">Despensado</a></b> · iOS and Android · <a href="https://apps.apple.com/us/app/despensado/id6806343938">App Store</a> · Google Play soon
+<br>Scan groceries by barcode, get warned before anything expires, share one pantry with your household. In nine languages.</td>
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://claudiostat.zolfer.com"><img src="assets/project-claudiostat.svg" width="40" height="40" alt="ClaudioStat"></a></td>
@@ -21,7 +22,7 @@ My first program was an mIRC script that mapped hotkeys to funny messages. 15+ y
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://theej.zolfer.com"><img src="assets/project-theej.svg" width="40" height="40" alt="TheeJ"></a></td>
-<td><b><a href="https://theej.zolfer.com">TheeJ</a></b> · macOS<br>Real knobs for your Mac: a deej Arduino mixer for volume, display brightness and keyboard backlight.</td>
+<td><b><a href="https://theej.zolfer.com">TheeJ</a></b> · macOS<br>Real knobs for your Mac: a <a href=" https://github.com/omriharel/deej">deej</a> Arduino mixer for volume, display brightness and keyboard backlight.</td>
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://url.zolfer.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zolferfigueiredo/zolferfigueiredo/main/assets/project-url.svg"><img src="https://raw.githubusercontent.com/zolferfigueiredo/zolferfigueiredo/main/assets/project-url-ink.svg" width="40" height="40" alt="url.zolfer.com"></picture></a></td>
