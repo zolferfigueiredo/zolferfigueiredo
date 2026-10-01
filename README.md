@@ -30,7 +30,7 @@ My first program was an mIRC script that mapped hotkeys to funny messages. 15+ y
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://zolfer.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zolferfigueiredo/zolferfigueiredo/main/assets/project-zolfer.svg"><img src="https://raw.githubusercontent.com/zolferfigueiredo/zolferfigueiredo/main/assets/project-zolfer-ink.svg" width="40" height="30" alt="zolfer.com"></picture></a></td>
-<td><b><a href="https://zolfer.com">zolfer.com</a></b> · Web<br>My pixel-art portfolio, designed by <a href="https://charleneperuchi.com/">Charlene Peruchi</a> and built with plain PHP: no framework, no database.</td>
+<td><b><a href="https://zolfer.com">zolfer.com</a></b> · Web<br>My pixel-art portfolio, designed by <a href="https://charleneperuchi.com/">Charlene Peruchi</a>.</td>
 </tr>
 </table>
 
