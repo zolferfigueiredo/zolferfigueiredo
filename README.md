@@ -14,15 +14,15 @@ My first program was an mIRC script that mapped hotkeys to funny messages. 15+ y
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://claudiostat.zolfer.com"><img src="assets/project-claudiostat.svg" width="40" height="40" alt="ClaudioStat"></a></td>
-<td><b><a href="https://claudiostat.zolfer.com">ClaudioStat</a></b> · macOS<br>Your Claude plan limits, live in the menu bar. A refresh costs zero tokens.</td>
+<td><b><a href="https://claudiostat.zolfer.com">ClaudioStat</a></b> · macOS · Open source on <a href="https://github.com/zolferfigueiredo/claudiostat">GitHub</a><br>Your Claude plan limits, live in the menu bar. A refresh costs zero tokens.</td>
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://bhb.zolfer.com"><img src="assets/project-bhb.svg" width="40" height="40" alt="BeeHan Brightness"></a></td>
-<td><b><a href="https://bhb.zolfer.com">BeeHan Brightness</a></b> · macOS<br>16 brightness steps below the lowest one macOS allows, on the same keys, with the native HUD.</td>
+<td><b><a href="https://bhb.zolfer.com">BeeHan Brightness</a></b> · macOS · Open source on <a href="https://github.com/zolferfigueiredo/bhbrightness">GitHub</a><br>16 brightness steps below the lowest one macOS allows, on the same keys, with the native HUD.</td>
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://theej.zolfer.com"><img src="assets/project-theej.svg" width="40" height="40" alt="TheeJ"></a></td>
-<td><b><a href="https://theej.zolfer.com">TheeJ</a></b> · macOS<br>Real knobs for your Mac: a <a href="https://github.com/omriharel/deej">deej</a> Arduino mixer for volume, display brightness and keyboard backlight.</td>
+<td><b><a href="https://theej.zolfer.com">TheeJ</a></b> · macOS · Open source on <a href="https://github.com/zolferfigueiredo/theej">GitHub</a><br>Real knobs for your Mac: a <a href="https://github.com/omriharel/deej">deej</a> Arduino mixer for volume, display brightness and keyboard backlight.</td>
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://url.zolfer.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zolferfigueiredo/zolferfigueiredo/main/assets/project-url.svg"><img src="https://raw.githubusercontent.com/zolferfigueiredo/zolferfigueiredo/main/assets/project-url-ink.svg" width="40" height="40" alt="url.zolfer.com"></picture></a></td>
