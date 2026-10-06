@@ -26,11 +26,11 @@ My first program was an mIRC script that mapped hotkeys to funny messages. 15+ y
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://weej.zolfer.com"><img src="assets/project-weej.svg" width="40" height="40" alt="WeeJ"></a></td>
-<td><b><a href="https://weej.zolfer.com">WeeJ</a></b> · Windows<br>Real knobs for your PC: the Windows client for a <a href="https://github.com/omriharel/deej">deej</a> mixer. Each knob sets a volume, a screen's brightness, Night light or a keyboard backlight.</td>
+<td><b><a href="https://weej.zolfer.com">WeeJ</a></b> · Windows · Open source on <a href="https://github.com/zolferfigueiredo/weej">GitHub</a><br>Real knobs for your PC: the Windows client for a <a href="https://github.com/omriharel/deej">deej</a> mixer. Each knob sets a volume, a screen's brightness, Night light or a keyboard backlight.</td>
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://wrecktangle.zolfer.com"><img src="assets/project-wrecktangle.svg" width="40" height="40" alt="Wrecktangle"></a></td>
-<td><b><a href="https://wrecktangle.zolfer.com">Wrecktangle</a></b> · Windows<br>A <a href="https://rectangleapp.com">Rectangle</a>-style window manager. Snap the focused window to a half, a corner or the center with one shortcut.</td>
+<td><b><a href="https://wrecktangle.zolfer.com">Wrecktangle</a></b> · Windows · Open source on <a href="https://github.com/zolferfigueiredo/wrecktangle">GitHub</a><br>A <a href="https://rectangleapp.com">Rectangle</a>-style window manager. Snap the focused window to a half, a corner or the center with one shortcut.</td>
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://url.zolfer.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zolferfigueiredo/zolferfigueiredo/main/assets/project-url.svg"><img src="https://raw.githubusercontent.com/zolferfigueiredo/zolferfigueiredo/main/assets/project-url-ink.svg" width="40" height="40" alt="url.zolfer.com"></picture></a></td>
