@@ -1,8 +1,6 @@
 <a href="https://zolfer.com"><img src="assets/character.svg" width="120" alt="Pixel-art portrait of Zolfer, links to zolfer.com"></a>
 
-Software developer in Berlin. I build small, polished apps: **Despensado** for iOS and Android, **ClaudioStat**, **BeeHan Brightness** and **TheeJ** for macOS, and **WeeJ** and **Wrecktangle** for Windows.
-
-My first program was an mIRC script that mapped hotkeys to funny messages. 15+ years later I still write code for fun, mostly web and mobile, lately with a lot of AI. Seven of those years went into React Native apps.
+Hello. I'm a software developer in Berlin. My first program was an mIRC script that mapped hotkeys to funny messages. 15+ years later I still write code for fun, mostly mobile and web, lately with a some AI. Seven of those years went into React Native apps.
 
 ### What I've shipped
 
