@@ -8,7 +8,7 @@ My first program was an mIRC script that mapped hotkeys to funny messages. 15+ y
 
 <table>
 <tr>
-<td width="56" valign="top"><a href="https://appdespensado.zolfer.com"><img src="assets/project-despensado.svg" width="40" height="40" alt="Despensado"></a></td>
+<td width="56" valign="top"><a href="https://appdespensado.zolfer.com"><img src="assets/project-despensado.png" width="40" height="40" alt="Despensado"></a></td>
 <td colspan="3"><b><a href="https://appdespensado.zolfer.com">Despensado</a></b> · iOS and Android · <a href="https://apps.apple.com/us/app/despensado/id6806343938">App Store</a> · Google Play soon
 <br>Scan groceries by barcode, get warned before anything expires, share one pantry with your household. In nine languages.</td>
 </tr>
@@ -29,7 +29,7 @@ My first program was an mIRC script that mapped hotkeys to funny messages. 15+ y
 <td nowrap valign="top">Open source<br><a href="https://github.com/zolferfigueiredo/theej">GitHub</a></td>
 </tr>
 <tr>
-<td width="56" valign="top"><a href="https://weej.zolfer.com"><img src="assets/project-weej.svg" width="40" height="40" alt="WeeJ"></a></td>
+<td width="56" valign="top"><a href="https://weej.zolfer.com"><img src="assets/project-weej.png" width="40" height="40" alt="WeeJ"></a></td>
 <td><b><a href="https://weej.zolfer.com">WeeJ</a></b> · Windows<br>Real knobs for your PC: the Windows client for a deej mixer. Each knob sets a volume, a screen's brightness, Night light or a keyboard backlight.</td>
 <td nowrap valign="top">Inspired<br><a href="https://github.com/omriharel/deej">deej</a></td>
 <td nowrap valign="top">Open source<br><a href="https://github.com/zolferfigueiredo/weej">GitHub</a></td>
