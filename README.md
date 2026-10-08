@@ -44,7 +44,7 @@ Hello. I'm a software developer in Berlin. My first program was an mIRC script t
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://zolfer.com"><img src="assets/project-zolfer.svg" width="40" height="40" alt="zolfer.com"></a></td>
-<td colspan="3"><b><a href="https://zolfer.com">zolfer.com</a></b> · Web<br>My pixel-art portfolio, designed by <a href="https://charleneperuchi.com/">Charlene Peruchi</a>.</td>
+<td colspan="3"><b><a href="https://zolfer.com">zolfer.com</a></b> · Web<br>My pixel-art portfolio, designed by <a href="https://www.behance.net/charlenedalmolin">Charlene Dal Molin</a>.</td>
 </tr>
 </table>
 
