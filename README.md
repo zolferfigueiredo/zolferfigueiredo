@@ -1,5 +1,3 @@
-<a href="https://zolfer.com"><img src="assets/character.svg" width="120" alt="Pixel-art portrait of Zolfer, links to zolfer.com"></a>
-
 Hi, I'm Zolfer, a mobile developer in Berlin. I build iOS and Android apps with React Native and TypeScript: 7+ years in React Native, 17+ years in software. My first program was an mIRC script that mapped hotkeys to funny messages. These days I ship my own apps, with AI tools like Claude and Cursor in my daily workflow.
 
 Before going independent, I spent six years building softgarden's recruiter app (React Native, GraphQL), and before that, full-stack and team-lead roles in Brazil since 2009.
