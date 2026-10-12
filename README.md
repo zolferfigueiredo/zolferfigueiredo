@@ -1,6 +1,8 @@
 <a href="https://zolfer.com"><img src="assets/character.svg" width="120" alt="Pixel-art portrait of Zolfer, links to zolfer.com"></a>
 
-Hello. I'm a software developer in Berlin. My first program was an mIRC script that mapped hotkeys to funny messages. 15+ years later I still write code for fun, mostly mobile and web, lately with a some AI. Seven of those years went into React Native apps.
+Hi, I'm Zolfer, a mobile developer in Berlin. I build iOS and Android apps with React Native and TypeScript: 7+ years in React Native, 17+ years in software. My first program was an mIRC script that mapped hotkeys to funny messages. These days I ship my own apps, with AI tools like Claude and Cursor in my daily workflow.
+
+Before going independent, I spent six years building softgarden's recruiter app (React Native, GraphQL), and before that, full-stack and team-lead roles in Brazil since 2009.
 
 ### What I've shipped
 
@@ -48,8 +50,8 @@ Hello. I'm a software developer in Berlin. My first program was an mIRC script t
 </tr>
 </table>
 
-**Coming soon:** [Celia](https://appcelia.zolfer.com/?lang=en), care for someone you love organized in one place, and [myfood.lv](https://myfood.lv), local food straight from Latvian farmers.
+**Coming soon:** [Celia](https://appcelia.zolfer.com/?lang=en), care for someone you love organized in one place, and [myfood.lv](https://myfood.lv), local food straight from Latvian farmers, a partner project.
 
-Day to day: TypeScript, React Native, Node and PHP, on MySQL or PostgreSQL.
+Day to day: React Native, TypeScript, Expo, Node.js and GraphQL, with PHP and MySQL on the backend.
 
 [zolfer.com](https://zolfer.com) · [LinkedIn](https://www.linkedin.com/in/zolfer/)
