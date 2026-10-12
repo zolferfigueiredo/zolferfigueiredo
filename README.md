@@ -8,7 +8,7 @@ Before mobile, I spent ten years in full-stack and team-lead roles in Brazil, bu
 <tr>
 <td width="56" valign="top"><a href="https://appdespensado.zolfer.com"><img src="assets/project-despensado.png" width="40" height="40" alt="Despensado"></a></td>
 <td colspan="3"><b><a href="https://appdespensado.zolfer.com">Despensado</a></b> · iOS and Android · <a href="https://apps.apple.com/us/app/despensado/id6806343938">App Store</a> · Google Play soon
-<br>Scan groceries by barcode, get warned before anything expires, share one pantry with your household. In nine languages.</td>
+<br>Scan groceries by barcode, get warned before anything expires, share one pantry with your household. In 12 languages.</td>
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://claudiostat.zolfer.com"><img src="assets/project-claudiostat.svg" width="40" height="40" alt="ClaudioStat"></a></td>
