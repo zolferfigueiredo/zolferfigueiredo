@@ -52,6 +52,6 @@ Before going independent, I spent six years building softgarden's recruiter app 
 
 **Coming soon:** [Celia](https://appcelia.zolfer.com/?lang=en), care for someone you love organized in one place, and [myfood.lv](https://myfood.lv), local food straight from Latvian farmers, a partner project.
 
-Day to day: React Native, TypeScript, Expo, Node.js and GraphQL, with PHP and MySQL on the backend.
+Day to day: React Native, TypeScript, Expo, Node.js, GraphQL and MySQL.
 
 [zolfer.com](https://zolfer.com) · [LinkedIn](https://www.linkedin.com/in/zolfer/)
