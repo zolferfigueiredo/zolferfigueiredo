@@ -67,7 +67,7 @@ Before mobile, I spent ten years in full-stack and team-lead roles in Brazil, bu
 <table>
 <tr>
 <td width="56" valign="top"><a href="https://scutae.zolfer.com"><img src="assets/project-scutae.svg" width="40" height="40" alt="scutæ"></a></td>
-<td><b><a href="https://scutae.zolfer.com">scutæ</a></b> · Web and macOS<br>Split any song into six stems, then mute your part in a browser mixer and play along with the band.</td>
+<td><b><a href="https://scutae.zolfer.com">scutæ</a></b> · Web<br>Split any song into six stems, then mute your part in a browser mixer and play along with the band.</td>
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://deploydz.zolfer.com"><img src="assets/project-deploydz.png" width="40" height="40" alt="Deploydz"></a></td>
