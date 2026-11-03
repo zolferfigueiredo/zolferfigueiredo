@@ -15,11 +15,6 @@ Before mobile, I spent ten years in full-stack and team-lead roles in Brazil, bu
 <td colspan="3"><b><a href="https://app.claudiostat.zolfer.com">ClaudioStat App</a></b> · iOS, watchOS, Android and Wear OS<br>Your Claude plan limits on your phone, your watch and their widgets. No computer needed.</td>
 </tr>
 <tr>
-<td width="56" valign="top"><a href="https://bhb.zolfer.com"><img src="assets/project-bhb.svg" width="40" height="40" alt="BeeHan Brightness"></a></td>
-<td colspan="2"><b><a href="https://bhb.zolfer.com">BeeHan Brightness</a></b> · macOS<br>16 brightness steps below the lowest one macOS allows, on the same keys, with the native HUD.</td>
-<td nowrap valign="top">Open source<br><a href="https://github.com/zolferfigueiredo/bhbrightness">GitHub</a></td>
-</tr>
-<tr>
 <td width="56" valign="top"><a href="https://claudiostat.zolfer.com"><img src="assets/project-claudiostat.svg" width="40" height="40" alt="ClaudioStat"></a></td>
 <td colspan="2"><b><a href="https://claudiostat.zolfer.com">ClaudioStat</a></b> · macOS<br>Your Claude plan limits, live in the menu bar. A refresh costs zero tokens.</td>
 <td nowrap valign="top">Open source<br><a href="https://github.com/zolferfigueiredo/claudiostat">GitHub</a></td>
@@ -28,6 +23,11 @@ Before mobile, I spent ten years in full-stack and team-lead roles in Brazil, bu
 <td width="56" valign="top"><a href="https://github.com/zolferfigueiredo/modclaudiostat"><img src="assets/project-claudiostat.svg" width="40" height="40" alt="ClaudioStat Mod"></a></td>
 <td colspan="2"><b><a href="https://github.com/zolferfigueiredo/modclaudiostat">ClaudioStat Mod</a></b> · Claude desktop app<br>Your session, week and Fable limits with pace and budget, in a thin row above the prompt.</td>
 <td nowrap valign="top">Open source<br><a href="https://github.com/zolferfigueiredo/modclaudiostat">GitHub</a></td>
+</tr>
+<tr>
+<td width="56" valign="top"><a href="https://bhb.zolfer.com"><img src="assets/project-bhb.svg" width="40" height="40" alt="BeeHan Brightness"></a></td>
+<td colspan="2"><b><a href="https://bhb.zolfer.com">BeeHan Brightness</a></b> · macOS<br>16 brightness steps below the lowest one macOS allows, on the same keys, with the native HUD.</td>
+<td nowrap valign="top">Open source<br><a href="https://github.com/zolferfigueiredo/bhbrightness">GitHub</a></td>
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://tallynn.zolfer.com"><img src="assets/project-tallynn.png" width="40" height="40" alt="Tallynn"></a></td>
