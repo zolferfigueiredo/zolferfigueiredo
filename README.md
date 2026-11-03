@@ -66,7 +66,7 @@ Before mobile, I spent ten years in full-stack and team-lead roles in Brazil, bu
 
 <table>
 <tr>
-<td width="56" valign="top"><a href="https://scutae.zolfer.com"><img src="assets/project-scutae.png" width="40" height="40" alt="scutæ"></a></td>
+<td width="56" valign="top"><a href="https://scutae.zolfer.com"><img src="assets/project-scutae.svg" width="40" height="40" alt="scutæ"></a></td>
 <td><b><a href="https://scutae.zolfer.com">scutæ</a></b> · Web and macOS<br>Split any song into six stems, then mute your part in a browser mixer and play along with the band.</td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ Before mobile, I spent ten years in full-stack and team-lead roles in Brazil, bu
 <td><b><a href="https://deploydz.zolfer.com">Deploydz</a></b> · macOS<br>Merge to main and it's live: runs your self-hosted GitHub Actions runners and shows every deploy and release in the menu bar.</td>
 </tr>
 <tr>
-<td width="56" valign="top"><a href="https://appcelia.zolfer.com/?lang=en"><img src="assets/project-celia.png" width="40" height="40" alt="Celia"></a></td>
+<td width="56" valign="top"><a href="https://appcelia.zolfer.com/?lang=en"><img src="assets/project-celia.svg" width="40" height="40" alt="Celia"></a></td>
 <td><b><a href="https://appcelia.zolfer.com/?lang=en">Celia</a></b> · iOS and Android<br>Care for someone you love, organized in one place: medicines, appointments, doctors and health measurements, shared with your family.</td>
 </tr>
 <tr>
