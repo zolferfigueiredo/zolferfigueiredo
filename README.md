@@ -7,8 +7,12 @@ Before mobile, I spent ten years in full-stack and team-lead roles in Brazil, bu
 <table>
 <tr>
 <td width="56" valign="top"><a href="https://appdespensado.zolfer.com"><img src="assets/project-despensado.png" width="40" height="40" alt="Despensado"></a></td>
-<td colspan="3"><b><a href="https://appdespensado.zolfer.com">Despensado</a></b> · iOS and Android · <a href="https://apps.apple.com/us/app/despensado/id6806343938">App Store</a> · Google Play soon
+<td colspan="3"><b><a href="https://appdespensado.zolfer.com">Despensado</a></b> · iOS and Android · <a href="https://apps.apple.com/us/app/despensado/id6806343938">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.zolfer.despensado">Google Play</a>
 <br>Scan groceries by barcode, get warned before anything expires, share one pantry with your household. In 12 languages.</td>
+</tr>
+<tr>
+<td width="56" valign="top"><a href="https://app.claudiostat.zolfer.com"><img src="assets/project-claudiostat-app.png" width="40" height="40" alt="ClaudioStat App"></a></td>
+<td colspan="3"><b><a href="https://app.claudiostat.zolfer.com">ClaudioStat App</a></b> · iOS, watchOS, Android and Wear OS<br>Your Claude plan limits on your phone, your watch and their widgets. No computer needed.</td>
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://claudiostat.zolfer.com"><img src="assets/project-claudiostat.svg" width="40" height="40" alt="ClaudioStat"></a></td>
@@ -16,9 +20,19 @@ Before mobile, I spent ten years in full-stack and team-lead roles in Brazil, bu
 <td nowrap valign="top">Open source<br><a href="https://github.com/zolferfigueiredo/claudiostat">GitHub</a></td>
 </tr>
 <tr>
+<td width="56" valign="top"><a href="https://github.com/zolferfigueiredo/modclaudiostat"><img src="assets/project-claudiostat.svg" width="40" height="40" alt="ClaudioStat Mod"></a></td>
+<td colspan="2"><b><a href="https://github.com/zolferfigueiredo/modclaudiostat">ClaudioStat Mod</a></b> · Claude desktop app<br>Your session, week and Fable limits with pace and budget, in a thin row above the prompt.</td>
+<td nowrap valign="top">Open source<br><a href="https://github.com/zolferfigueiredo/modclaudiostat">GitHub</a></td>
+</tr>
+<tr>
 <td width="56" valign="top"><a href="https://bhb.zolfer.com"><img src="assets/project-bhb.svg" width="40" height="40" alt="BeeHan Brightness"></a></td>
 <td colspan="2"><b><a href="https://bhb.zolfer.com">BeeHan Brightness</a></b> · macOS<br>16 brightness steps below the lowest one macOS allows, on the same keys, with the native HUD.</td>
 <td nowrap valign="top">Open source<br><a href="https://github.com/zolferfigueiredo/bhbrightness">GitHub</a></td>
+</tr>
+<tr>
+<td width="56" valign="top"><a href="https://tallynn.zolfer.com"><img src="assets/project-tallynn.png" width="40" height="40" alt="Tallynn"></a></td>
+<td colspan="2"><b><a href="https://tallynn.zolfer.com">Tallynn</a></b> · macOS<br>Your GitHub release downloads, live in the menu bar, with a notification the moment any of them changes.</td>
+<td nowrap valign="top">Open source<br><a href="https://github.com/zolferfigueiredo/tallynn">GitHub</a></td>
 </tr>
 <tr>
 <td width="56" valign="top"><a href="https://theej.zolfer.com"><img src="assets/project-theej.svg" width="40" height="40" alt="TheeJ"></a></td>
@@ -48,7 +62,26 @@ Before mobile, I spent ten years in full-stack and team-lead roles in Brazil, bu
 </tr>
 </table>
 
-**Coming soon:** [Celia](https://appcelia.zolfer.com/?lang=en), care for someone you love organized in one place, and [myfood.lv](https://myfood.lv), local food straight from Latvian farmers, a partner project.
+### Coming soon
+
+<table>
+<tr>
+<td width="56" valign="top"><a href="https://scutae.zolfer.com"><img src="assets/project-scutae.svg" width="40" height="40" alt="scutæ"></a></td>
+<td><b><a href="https://scutae.zolfer.com">scutæ</a></b> · Web and macOS<br>Split any song into six stems, then mute your part in a browser mixer and play along with the band.</td>
+</tr>
+<tr>
+<td width="56" valign="top"><a href="https://deploydz.zolfer.com"><img src="assets/project-deploydz.png" width="40" height="40" alt="Deploydz"></a></td>
+<td><b><a href="https://deploydz.zolfer.com">Deploydz</a></b> · macOS<br>Merge to main and it's live: runs your self-hosted GitHub Actions runners and shows every deploy and release in the menu bar.</td>
+</tr>
+<tr>
+<td width="56" valign="top"><a href="https://appcelia.zolfer.com/?lang=en"><img src="assets/project-celia.svg" width="40" height="40" alt="Celia"></a></td>
+<td><b><a href="https://appcelia.zolfer.com/?lang=en">Celia</a></b> · iOS and Android<br>Care for someone you love, organized in one place: medicines, appointments, doctors and health measurements, shared with your family.</td>
+</tr>
+<tr>
+<td width="56" valign="top"><a href="https://myfood.lv"><img src="assets/project-myfood.svg" width="40" height="40" alt="myfood.lv"></a></td>
+<td><b><a href="https://myfood.lv">myfood.lv</a></b> · Web<br>Local food straight from Latvian farmers. A partner project.</td>
+</tr>
+</table>
 
 Day to day: React Native, TypeScript, Expo, Node.js, GraphQL and MySQL.
 
